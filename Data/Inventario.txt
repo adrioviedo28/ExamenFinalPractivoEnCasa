@@ -1,0 +1,7 @@
+1,axion,detergente,5000.0,3
+2,Aguardiente,licor,80000.0,8
+3,manzana,fruta,1500.0,6
+4,zanahoria,verdura,450.0,10
+5,salchicha,embutidos,4600.0,2
+6,cuaderno,papeleria,9000.0,13
+7,vino,licor,46000.0,5

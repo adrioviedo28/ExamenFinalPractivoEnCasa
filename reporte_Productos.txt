@@ -1,0 +1,9 @@
+Producto  | Categoría | Unidades Totales | Valor Total
+axion      | detergente | 3               | $15000.00
+Aguardiente | licor      | 8               | $640000.00
+manzana    | fruta      | 6               | $9000.00
+zanahoria  | verdura    | 10              | $4500.00
+salchicha  | embutidos  | 2               | $9200.00
+cuaderno   | papeleria  | 13              | $117000.00
+vino       | licor      | 5               | $230000.00
+total inventario:  $1024700.00
